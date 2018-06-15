@@ -1,8 +1,10 @@
+/*
+
 document.getElementById("crystal").onclick = function () {
     location.href = "index-crystal.html";
 };
 
-/*
+
 document.getElementById("portfolio").onclick = function () {
     location.href = "portfolio.html";
 };
